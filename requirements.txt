@@ -8,3 +8,4 @@ matplotlib
 librosa
 opencv-python-headless
 torchvision
+opencv2
