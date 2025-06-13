@@ -6,3 +6,4 @@ numpy
 Pillow
 matplotlib
 librosa
+opencv-python-headless
