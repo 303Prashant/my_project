@@ -7,3 +7,4 @@ Pillow
 matplotlib
 librosa
 opencv-python-headless
+torchvision
