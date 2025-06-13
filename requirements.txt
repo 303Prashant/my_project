@@ -1,0 +1,8 @@
+streamlit
+streamlit_option_menu
+torch
+opencv-python
+numpy
+Pillow
+matplotlib
+librosa
