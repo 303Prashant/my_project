@@ -1,11 +1,15 @@
 streamlit
-streamlit_option_menu
-torch
+streamlit-option-menu
+pandas
 numpy
-Pillow
 matplotlib
-librosa
 opencv-python-headless
-torchvision
 reportlab
+fpdf
+librosa
+torch
+torchvision
+scikit-learn
+pillow
+
 
