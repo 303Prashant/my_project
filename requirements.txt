@@ -11,5 +11,5 @@ torch
 torchvision
 scikit-learn
 pillow
-
+seaborn
 
