@@ -1,0 +1,15 @@
+streamlit
+streamlit-option-menu
+pandas
+numpy
+matplotlib
+opencv-python-headless
+reportlab
+fpdf
+librosa
+torch
+torchvision
+scikit-learn
+pillow
+seaborn
+
